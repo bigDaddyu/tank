@@ -1,0 +1,83 @@
+.null{
+    background-color: lightblue;
+}
+.team{
+    color: burlywood;
+}
+.design{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslateblue;
+    font-weight: bold;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+.first{
+    display: block;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.intro{
+    text-align: center;
+    color: goldenrod;
+    background-color: lightblue;
+}
+
+.s1{
+    color: rgb(172, 161, 98);
+    font-weight: bolder;
+}
+
+.s2{
+    color: rgb(172, 161, 98);
+    font-weight: bolder;
+}
+
+.second{
+    display: flex;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.how{
+    margin: 100px;
+    width: 500px;
+}
+
+.for{
+    margin-top: 300px;
+}
+
+.it{
+    color: blue;
+    text-align: center;
+}
+
+.lan{
+    text-align: center;
+    color: black;
+}
+
+.got{
+    width: 1000px;
+    margin: 100px;
+}
+
+.from{
+    display: flex;
+}
+
+.baby{
+    margin: 100px;
+    width: 800px;
+    height: 300px;
+}
+
+.loop{
+    display: flex;
+}
